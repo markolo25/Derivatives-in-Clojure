@@ -1,2 +1,7 @@
-# Derivatives-in-Clojure
-A program that finds derivatives of mathematical equations written in lisp style syntax.
+# derivatives
+
+A Clojure app to ... well, that part is up to you.
+
+## Usage
+
+FIXME
